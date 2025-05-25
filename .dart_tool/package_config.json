@@ -245,10 +245,10 @@
       "name": "worktency",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-05-25T15:01:04.830560Z",
+  "generated": "2025-05-25T15:45:34.132611Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///C:/flutter",

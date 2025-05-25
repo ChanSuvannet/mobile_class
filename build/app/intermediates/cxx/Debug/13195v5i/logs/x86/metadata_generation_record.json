@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: x86",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1191369173
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1941234406
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 858517476
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 133700450
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -642468495
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\u0027",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1385052000
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\u0027",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1753380332
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\flutter\\\\packages\\\\flutter_tools\\\\gradle\\\\src\\\\main\\\\groovy\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\build\\\\app\\\\intermediates\\\\cxx\\\\Debug\\\\13195v5i\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\build\\\\app\\\\intermediates\\\\cxx\\\\Debug\\\\13195v5i\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\android\\\\app\\\\.cxx\\\\Debug\\\\13195v5i\\\\x86\" ^\n  -GNinja ^\n  -Wno-dev ^\n  --no-warn-unused-cli\n",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -149034049
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.18.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\flutter\\\\packages\\\\flutter_tools\\\\gradle\\\\src\\\\main\\\\groovy\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d21\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-21\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\ndk\\\\25.2.9519653\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Asus\\\\AppData\\\\Local\\\\Android\\\\sdk\\\\cmake\\\\3.18.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\build\\\\app\\\\intermediates\\\\cxx\\\\Debug\\\\13195v5i\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\build\\\\app\\\\intermediates\\\\cxx\\\\Debug\\\\13195v5i\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\Asus\\\\ITC NOTED\\\\ITC_24\\\\Mobile\\\\Ass\\\\ass4\\\\Flutter\\\\android\\\\app\\\\.cxx\\\\Debug\\\\13195v5i\\\\x86\" ^\n  -GNinja ^\n  -Wno-dev ^\n  --no-warn-unused-cli\n",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2053454018
+  },
+  {
+    "level_": 0,
+    "message_": "C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\compile_commands.json.bin existed but not C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\compile_commands.json",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1680571902
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -954814746
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\Asus\\ITC NOTED\\ITC_24\\Mobile\\Ass\\ass4\\Flutter\\android\\app\\.cxx\\Debug\\13195v5i\\x86\\metadata_generation_command.txt",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2115309776
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 983258338
+  }
+]
