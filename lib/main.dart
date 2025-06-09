@@ -1,10 +1,6 @@
+
 import 'package:flutter/material.dart';
-import 'package:worktency/screens/auth/login_screen.dart';
-import 'package:worktency/screens/category_screen.dart';
-import 'package:worktency/screens/landing_screen.dart';
-import 'package:worktency/screens/my_course_screen.dart';
-import 'package:worktency/screens/online_course_screen.dart';
-import 'package:worktency/screens/search_screen.dart';
+import 'package:worktency/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -29,28 +25,20 @@ class MyApp extends StatelessWidget {
     );
   }
 
+  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Worktency',
+      title: 'QuickNote',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
       onGenerateRoute: (settings) {
         switch (settings.name) {
           case '/':
-            return _createRoute(const LoginScreen());
-          case '/explore':
-            return _createRoute(const LandingScreen());
-          case '/search':
-            return _createRoute(const SearchScreen());
-          case '/myCourses':
-            return _createRoute(const MyCourseScreen());
-          case '/onlineCourses':
-            return _createRoute(const OnlineCourseScreen());
-          case '/category':
-            return _createRoute(const CategoryScreen());
+            return _createRoute(const HomeScreen());
+
           default:
             return null;
         }

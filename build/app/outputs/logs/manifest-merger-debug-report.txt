@@ -23,6 +23,7 @@ INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app
 INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml:1:1-45:12
 INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml:1:1-45:12
 MERGED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:sqflite_android] C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\build\sqflite_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Asus\.gradle\caches\transforms-3\1bef060c03f26bffe1d2fc4b88277980\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\3a844a4969a4741e7f6aef04dba96fba\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\1b7a07c40dfdefd05a7dab61189d6f8a\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
@@ -82,6 +83,8 @@ uses-sdk
 INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite_android] C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\build\sqflite_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite_android] C:\Users\Asus\ITC NOTED\ITC_24\Mobile\Ass\ass4\Flutter\build\sqflite_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Asus\.gradle\caches\transforms-3\1bef060c03f26bffe1d2fc4b88277980\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Asus\.gradle\caches\transforms-3\1bef060c03f26bffe1d2fc4b88277980\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\3a844a4969a4741e7f6aef04dba96fba\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
